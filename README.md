@@ -1,10 +1,11 @@
-## Hi there 👋 Welcome:
+## Hi, Hola 👋 Welcome:
 
-- ✨ I'm passionate about new experiences, learning with a team.
+- I'm Software Developer from México 🇲🇽
+- ✨ I'm passionate about new experiences, learning everyday something new...
 - **beat the competition through authenticity**
-- 🔭 I’m currently working on [TV Azteca](https://www.gruposalinas.com/es/empresas/tv-azteca/) 
-- 🌱 I’m currently learning NodeJS, TypeScript, Rust...
-- 💬 Ask me about How to make your Terminal useful, currently using zsh shell 
+- 🔭 I’m currently working on [TV Azteca](https://www.gruposalinas.com/es/empresas/tv-azteca/)
+- 🌱 I’m currently learning BackEnd with NodeJS and Python.
+- 💬 Ask me about to tweak your terminal, I'm happy to share.
 - 😄 Pronouns: He, Him
 - ⚡ Hobbies: Football, Dancing, Eating, Gaming, Learning, watching movies.
 
